@@ -26,4 +26,4 @@ You can click the Preview link to take a look at your changes.
 
   https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yoshitaka7&theme=dracula
     
-  https://github-readme-stats.vercel.app/api?username=hoge&count_private=true&show_icons=true&theme=dracula
+  https://github-readme-stats.vercel.app/api?username=yoshitaka7&count_private=true&show_icons=true&theme=dracula

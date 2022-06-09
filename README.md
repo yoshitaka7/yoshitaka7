@@ -29,3 +29,5 @@ https://github-profile-summary-cards.vercel.app/api/cards/profile-details?userna
 https://github-readme-stats.vercel.app/api?username=yoshitaka7&count_private=true&show_icons=true&theme=dracula
   
 https://github-readme-stats.vercel.app/api/top-langs/?username=yoshitaka7&layout=default&theme=dracula
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?yoshitaka7=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)

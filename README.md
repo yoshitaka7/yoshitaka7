@@ -23,6 +23,7 @@ You can click the Preview link to take a look at your changes.
     <img height="20" src="https://qiita-badge.apiapi.app/s/odennkunn/contributions.svg" />
   </a>
 </p>
+  
 [![trophy](https://github-profile-trophy.vercel.app/?yoshitaka7=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yoshitaka7&theme=dracula

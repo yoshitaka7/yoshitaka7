@@ -23,4 +23,5 @@ You can click the Preview link to take a look at your changes.
     <img height="20" src="https://qiita-badge.apiapi.app/s/odennkunn/contributions.svg" />
   </a>
 </p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?yoshitaka7=anuraghazra&show_icons=true&theme=radical)
+
+  https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yoshitaka7&theme=dracula

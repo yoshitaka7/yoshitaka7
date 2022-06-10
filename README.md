@@ -23,6 +23,12 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yoshitaka7&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
 </p>
   
+
+[![](https://raw.githubusercontent.com/yoshitaka7/yoshitaka7/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/yoshitaka7/yoshitaka7/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/yoshitaka7/yoshitaka7/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/yoshitaka7/yoshitaka7/main/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/yoshitaka7/yoshitaka7/main/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+  
 ## Languages and Tools
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
